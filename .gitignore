@@ -70,3 +70,10 @@ typings/
 .next
 
 dist/**
+
+## rust
+**/target/
+
+## IDEA
+.idea/**
+**/.idea/**
