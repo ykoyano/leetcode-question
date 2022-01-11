@@ -72,7 +72,7 @@ typings/
 dist/**
 
 ## rust
-**/target/
+target/
 
 ## IDEA
 .idea/**

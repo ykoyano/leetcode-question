@@ -25,7 +25,7 @@ impl Solution {
     }
 }
 
-fn main() {
+pub fn execute() {
     let nums = vec![3, 2, 4];
     let target = 6;
     let answer = Solution::two_sum(nums, target);
